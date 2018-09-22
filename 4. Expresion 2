@@ -1,0 +1,19 @@
+/*4. Suponga que int a = 3, int b = 10, double c = 0.5 y int d = 4, entonces
+¿Cuál es el valor que se obtiene al evaluar de la siguiente expresiíon?
+(int)(b * c) % a * -b / c + d - a % d
+ */
+
+class TestClass {
+    public static void main(String args[] ) throws Exception {
+        
+        int a = 3;
+        int b = 10;
+        double c = 0.5;
+        int d = 4;
+        
+        int res = (int)((b * c) % a * -b / c + d - a % d);
+        
+        System.out.println(res);
+
+    }
+}
