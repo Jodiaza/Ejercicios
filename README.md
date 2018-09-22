@@ -1,1 +1,1 @@
-# logica
+# Ejercicios de programación
