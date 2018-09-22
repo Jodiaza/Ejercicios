@@ -1,4 +1,4 @@
-/*Suponga que double a = 0.5, int b = -2 y int c = 3, entonces ¿Cuál es el valor que se obtiene al evaluar
+/*3. Suponga que double a = 0.5, int b = -2 y int c = 3, entonces ¿Cuál es el valor que se obtiene al evaluar
 de la siguiente expresión? -b + b * b % 3 - 4 * a * c / 2 * a */
 
 class TestClass {
